@@ -1,5 +1,4 @@
 # spring-security-custom-user-registration
-# Spring Security Custom User Registration Demo
 
 This project demonstrates a custom user registration process using Spring Security and Thymeleaf.
 
