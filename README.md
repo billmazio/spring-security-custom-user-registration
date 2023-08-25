@@ -1,8 +1,16 @@
 # spring-security-custom-user-registration
 
-This project demonstrates a custom user registration process using Spring Security and Thymeleaf.
+# Spring Security Custom User Registration 
+
+This project demonstrates a custom user registration process using Spring Security and Thymeleaf, integrated with Hibernate for database operations.
 
 ## Project Structure
+
+...
+
+- **src/main/resources/application.properties**
+  - Properties file containing application-specific configurations.
+  - Includes database configurations and other settings.
 
 - **src/main/java/com/luv2code/springsecurity/demo/config/DemoSecurityConfig.java**
   - Configuration class that defines Spring Security configuration.
@@ -46,7 +54,8 @@ This project demonstrates a custom user registration process using Spring Securi
   
 - **src/main/resources/application.properties**
   - Properties file containing application-specific configurations.
-  - Includes database configurations, Spring Security settings, and more.
+  - Includes database configurations and other settings.
+  
 
 ## Usage
 
