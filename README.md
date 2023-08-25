@@ -1,4 +1,23 @@
 # spring-security-custom-user-registration
+## Features
+
+- User registration with input validation
+- Secure login using Spring Security
+- Role-based access control for different user roles
+
+## Table of Contents
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [License](#license)
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository.
+2. Configure your database settings in `application.properties`.
+3. Run the application using your preferred IDE or using the command line:
+
 
 ![Registration](https://github.com/billmazio/spring-security-custom-user-registration/assets/116730698/da3f2543-4815-4a9a-a9ac-18aedcfc8dec)
 *Image : Registration*
